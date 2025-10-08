@@ -140,8 +140,6 @@ Predicted Food Name: Pizza
 
 ---
 
-## 🏁 Acknowledgments
-
 ## 🏫 Acknowledgments
 
 This project was completed as part of an academic exploration in Machine Learning.
