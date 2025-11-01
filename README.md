@@ -145,9 +145,3 @@ Predicted Food Name: Pizza
 This project was completed as part of an academic exploration in Machine Learning.
 I would like to express my sincere gratitude to **GUVI** and to the **external and internal professors** for their valuable guidance, support and encouragement throughout this project.
 Their insights and teaching made it easier to understand complex topics like model evaluation, data preprocessing and feature importance and helped me successfully complete this project with confidence.
-
----
-
-### 📜 License
-
-This project is open-sourced under the MIT License.
